@@ -1,2 +1,2 @@
 # OOP
-Using oop to make blueprints for lost of things
+Using oop to make blueprints for losts of things
